@@ -1,0 +1,46 @@
+﻿<Window x:Class="CookExam2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CookExam2"
+        mc:Ignorable="d"
+        Title="Книга рецептів" Height="450"  Width="835" MinHeight="450" MinWidth="800" MaxWidth="835" MaxHeight="450" 
+        Background="DarkGray">
+
+    <Window.Resources>
+        <DropShadowEffect x:Key="dropShadow" ShadowDepth="3" Direction="270" Color="#999999" Opacity="0.5" BlurRadius="6"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ToolBar Grid.Row="0" Background="Silver" BorderBrush="#EAEAEA" BorderThickness="0,0,0,1">
+            <Button Command="{Binding AddRecipe}" Content="Добавити" Margin="5" Padding="10" Background="#EAEAEA" BorderThickness="0" />
+            <Button Command="{Binding ChangeRecipe}" CommandParameter="{Binding SelectedRecipe}" Content="Змінити" Margin="5" Padding="10" Background="#EAEAEA" BorderThickness="0" />
+            <Button Command="{Binding DeleteRecipe}" CommandParameter="{Binding SelectedRecipe}" Content="Видалити" Margin="5" Padding="10" Background="#EAEAEA" BorderThickness="0" />
+            <Button Command="{Binding SaveRecipe}" Content="Збрегти" Margin="5" Padding="10" Background="#EAEAEA" BorderThickness="0" />
+        </ToolBar>
+
+        <ListBox Grid.Row="1" ItemsSource="{Binding recipesList}" SelectedItem="{Binding SelectedRecipe}" BorderBrush="#EAEAEA" BorderThickness="1" Background="Gray">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="#EAEAEA" BorderThickness="1" CornerRadius="10" Padding="15" Margin="5" Background="LightGray" Effect="{StaticResource dropShadow}">
+                        <StackPanel Orientation="Horizontal">
+                            <StackPanel>
+                                <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="22" Foreground="#444444"/>
+                                <TextBlock Text="{Binding Type}" FontSize="20" FontStyle="Italic" Foreground="#666666"/>
+                                <TextBlock Text="{Binding KitchenType}" FontSize="20" Foreground="#666666"/>
+                                <TextBlock Text="{Binding Description}" FontSize="18" TextWrapping="Wrap" Width="400" Foreground="#888888"/>
+                            </StackPanel>
+                            <Image Source="{Binding ImageSource}" Width="300" Height="300" Margin="25, 0, 0, 0"/>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

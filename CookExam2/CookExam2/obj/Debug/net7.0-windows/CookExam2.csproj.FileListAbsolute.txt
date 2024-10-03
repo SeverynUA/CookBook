@@ -1,0 +1,44 @@
+C:\Users\coolm\source\repos\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.exe
+C:\Users\coolm\source\repos\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.deps.json
+C:\Users\coolm\source\repos\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.runtimeconfig.json
+C:\Users\coolm\source\repos\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.dll
+C:\Users\coolm\source\repos\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.pdb
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\FoodRecipe_Dialog.g.cs
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2_MarkupCompile.cache
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2_MarkupCompile.lref
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\FoodRecipe_Dialog.baml
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.g.resources
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.AssemblyInfoInputs.cache
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.AssemblyInfo.cs
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.csproj.CoreCompileInputs.cache
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.dll
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\refint\CookExam2.dll
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.pdb
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.genruntimeconfig.cache
+C:\Users\coolm\source\repos\CookExam2\CookExam2\obj\Debug\net7.0-windows\ref\CookExam2.dll
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.exe
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.deps.json
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.runtimeconfig.json
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.dll
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\bin\Debug\net7.0-windows\CookExam2.pdb
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\FoodRecipe_Dialog.g.cs
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2_MarkupCompile.cache
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2_MarkupCompile.lref
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\FoodRecipe_Dialog.baml
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.g.resources
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.AssemblyInfoInputs.cache
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.AssemblyInfo.cs
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.csproj.CoreCompileInputs.cache
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.dll
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\refint\CookExam2.dll
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.pdb
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\CookExam2.genruntimeconfig.cache
+C:\Users\coolm\OneDrive\STEP\SECOND semester\Basics of development using Windows Forms and WPF programs\18_Exam\CookExam2\CookExam2\CookExam2\obj\Debug\net7.0-windows\ref\CookExam2.dll
